@@ -17,7 +17,9 @@ the difference between fetch API and Webscraping is their platform.
 
 fetch targets backend endpoints while webscraping targets Elements in a UI or elements in a front end.
 
+Yeah, you might need to learn more of architecture in the web through inspect element in a web page.
+
 I learned selenium in college and It gave me happiness when i learned it.
 
-the bad thing about this is having DDOS attacks in a website.
+The bad thing about this is making DDOS attacks in a website.
 
